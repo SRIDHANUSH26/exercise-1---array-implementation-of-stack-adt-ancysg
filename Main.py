@@ -11,7 +11,7 @@ class Stack:
 
     def is_full(self):
         # Write code here
-        return len9self.items)>self.size
+        return len(self.items)>=self.size
 
     def push(self, data):
         if not self.is_full():
