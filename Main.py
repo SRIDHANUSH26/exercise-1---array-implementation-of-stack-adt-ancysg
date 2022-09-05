@@ -38,4 +38,4 @@ for line in range(queries):
         stack.push(values[1])
     elif values[0] == 2:
         stack.pop()
-stack.status()
+stack.status()1
